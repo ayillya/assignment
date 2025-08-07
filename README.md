@@ -6,6 +6,8 @@ Create an environment
 
 Type pip install fastapi requests uvicorn in the terminal
 
+Do create API keys and upload in env file
+
 To run the code type uvicorn main:app --reload
 
 This will start the server at:
